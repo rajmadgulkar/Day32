@@ -2,6 +2,7 @@
 void printArr(int arr[][3], int arrSize){
     for(int i=0;i<arrSize;i++){
     printf("%d\n",*(*arr+i));
+    
     }
 }
 void main(){
