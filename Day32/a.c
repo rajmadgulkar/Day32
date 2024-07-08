@@ -7,6 +7,7 @@ void main(){
 
 }
 /*
-Enter player name:Mahendra Singh Dhoni
-Mahendra Singh Dhoni
+Enter player name:
+*** stack smashing detected ***: terminated
+Aborted
 */
